@@ -28,6 +28,8 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+i18n:
+  footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)      
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
