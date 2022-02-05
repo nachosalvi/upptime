@@ -11,9 +11,9 @@ sites:
     url: https://servicedesk.aysa.com.ar
   - name: Aysa Encuestas
     url: https://encuestas.aysa.com.ar
-  - name Aysa Oficina Virtual
+  - name: Aysa Oficina Virtual
     url: https://oficinavirtual.web.aysa.com.ar
-  - name Aysa Mail
+  - name: Aysa Mail
     url: https://mail.aysa.com.ar
 Assignees:
   - nachosalvi
