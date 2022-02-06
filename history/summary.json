@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 426,
-    "timeDay": 433,
-    "timeWeek": 426,
-    "timeMonth": 426,
-    "timeYear": 426,
+    "time": 423,
+    "timeDay": 436,
+    "timeWeek": 423,
+    "timeMonth": 423,
+    "timeYear": 423,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 881,
-    "timeDay": 893,
-    "timeWeek": 881,
-    "timeMonth": 881,
-    "timeYear": 881,
+    "time": 875,
+    "timeDay": 863,
+    "timeWeek": 875,
+    "timeMonth": 875,
+    "timeYear": 875,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1241,
-    "timeDay": 1252,
-    "timeWeek": 1241,
-    "timeMonth": 1241,
-    "timeYear": 1241,
+    "time": 1235,
+    "timeDay": 1237,
+    "timeWeek": 1235,
+    "timeMonth": 1235,
+    "timeYear": 1235,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1433,
-    "timeDay": 1438,
-    "timeWeek": 1433,
-    "timeMonth": 1433,
-    "timeYear": 1433,
+    "time": 1428,
+    "timeDay": 1450,
+    "timeWeek": 1428,
+    "timeMonth": 1428,
+    "timeYear": 1428,
     "dailyMinutesDown": {}
   },
   {
@@ -77,18 +77,19 @@
     "icon": "https://favicons.githubusercontent.com/oficinavirtual.web.aysa.com.ar",
     "slug": "aysa-oficina-virtual",
     "status": "down",
-    "uptime": "3.08%",
-    "uptimeDay": "3.08%",
-    "uptimeWeek": "3.08%",
-    "uptimeMonth": "3.08%",
-    "uptimeYear": "3.08%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-05": 1
+      "2022-02-06": 71,
+      "2022-02-05": 627
     }
   },
   {
@@ -97,18 +98,19 @@
     "icon": "https://favicons.githubusercontent.com/mail.aysa.com.ar",
     "slug": "aysa-mail",
     "status": "down",
-    "uptime": "68.20%",
-    "uptimeDay": "68.20%",
-    "uptimeWeek": "68.20%",
-    "uptimeMonth": "68.20%",
-    "uptimeYear": "68.20%",
+    "uptime": "0.07%",
+    "uptimeDay": "0.07%",
+    "uptimeWeek": "0.07%",
+    "uptimeMonth": "0.07%",
+    "uptimeYear": "0.07%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-05": 0
+      "2022-02-06": 71,
+      "2022-02-05": 626
     }
   }
 ]
