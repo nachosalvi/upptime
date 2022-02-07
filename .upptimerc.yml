@@ -13,6 +13,8 @@ sites:
     url: https://encuestas.aysa.com.ar
   - name: Aysa Oficina Virtual
     url: https://oficinavirtual.web.aysa.com.ar
+    expectedStatusCodes:
+      - 302
   - name: Aysa Mail
     url: https://mail.aysa.com.ar
 Assignees:
