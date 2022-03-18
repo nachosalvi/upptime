@@ -16,6 +16,7 @@ sites:
     __dangerous__disable_verify_peer: true
   - name: Aysa Mail
     url: https://mail.aysa.com.ar
+    __dangerous__disable_verify_peer: true
 Assignees:
   - nachosalvi
 
