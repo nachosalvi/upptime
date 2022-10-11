@@ -1,7 +1,7 @@
 url: https://encuestas.aysa.com.ar
-status: up
-code: 200
-responseTime: 1421
-lastUpdated: 2022-10-11T12:17:34.026Z
+status: down
+code: 500
+responseTime: 1452
+lastUpdated: 2022-10-11T18:58:53.394Z
 startTime: Thu Feb 03 2022 22:21:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
