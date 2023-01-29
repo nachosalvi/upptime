@@ -9,8 +9,8 @@ sites:
     url: https://intranet.aysa.com.ar/login
   - name: Aysa ServiceDesk
     url: https://servicedesk.aysa.com.ar
-  - name: Aysa Encuestas
-    url: https://encuestas.aysa.com.ar
+  #- name: Aysa Encuestas
+  #  url: https://encuestas.aysa.com.ar
   - name: Aysa Oficina Virtual
     url: https://oficinavirtual.web.aysa.com.ar/index.html
     __dangerous__disable_verify_peer: true
