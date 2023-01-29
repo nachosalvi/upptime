@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Aysa Sitio Corporativo
-    url: https://aysa.com.ar
+    url: https://www.aysa.com.ar
   - name: Aysa Intranet
     url: https://intranet.aysa.com.ar/login
   - name: Aysa ServiceDesk
