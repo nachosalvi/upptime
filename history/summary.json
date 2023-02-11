@@ -14,7 +14,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 380,
+    "timeYear": 379,
     "dailyMinutesDown": {
       "2022-10-11": 741,
       "2022-10-10": 1440,
@@ -43,11 +43,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.69%",
-    "time": 868,
-    "timeDay": 745,
-    "timeWeek": 759,
-    "timeMonth": 800,
-    "timeYear": 869,
+    "time": 867,
+    "timeDay": 607,
+    "timeWeek": 729,
+    "timeMonth": 787,
+    "timeYear": 868,
     "dailyMinutesDown": {
       "2023-01-12": 56,
       "2023-01-11": 22,
@@ -59,8 +59,7 @@
       "2022-04-04": 86,
       "2022-03-31": 30,
       "2022-03-16": 16,
-      "2022-02-12": 879,
-      "2022-02-11": 137
+      "2022-02-12": 879
     }
   },
   {
@@ -72,20 +71,19 @@
     "uptime": "99.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.71%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.73%",
     "time": 1226,
-    "timeDay": 1131,
-    "timeWeek": 1150,
-    "timeMonth": 1114,
-    "timeYear": 1228,
+    "timeDay": 1024,
+    "timeWeek": 1121,
+    "timeMonth": 1143,
+    "timeYear": 1227,
     "dailyMinutesDown": {
       "2023-01-12": 56,
       "2023-01-10": 72,
       "2022-04-24": 239,
       "2022-03-31": 30,
-      "2022-02-12": 878,
-      "2022-02-11": 137
+      "2022-02-12": 878
     }
   },
   {
@@ -100,9 +98,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 883,
-    "timeDay": 935,
-    "timeWeek": 885,
-    "timeMonth": 818,
+    "timeDay": 977,
+    "timeWeek": 897,
+    "timeMonth": 824,
     "timeYear": 886,
     "dailyMinutesDown": {
       "2022-12-04": 21,
@@ -123,11 +121,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1712,
-    "timeDay": 1627,
-    "timeWeek": 1662,
-    "timeMonth": 1573,
-    "timeYear": 1696,
+    "time": 1711,
+    "timeDay": 1349,
+    "timeWeek": 1616,
+    "timeMonth": 1556,
+    "timeYear": 1695,
     "dailyMinutesDown": {
       "2022-09-19": 19,
       "2022-03-31": 51
