@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.aysa.com.ar.ico",
     "slug": "aysa-sitio-corporativo",
     "status": "down",
-    "uptime": "97.93%",
+    "uptime": "97.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -14,7 +14,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 379,
+    "timeYear": 380,
     "dailyMinutesDown": {
       "2022-10-11": 741,
       "2022-10-10": 1440,
@@ -41,12 +41,12 @@
     "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.69%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.73%",
     "time": 867,
-    "timeDay": 607,
-    "timeWeek": 729,
-    "timeMonth": 787,
+    "timeDay": 809,
+    "timeWeek": 745,
+    "timeMonth": 772,
     "timeYear": 868,
     "dailyMinutesDown": {
       "2023-01-12": 56,
@@ -58,8 +58,7 @@
       "2022-04-24": 239,
       "2022-04-04": 86,
       "2022-03-31": 30,
-      "2022-03-16": 16,
-      "2022-02-12": 879
+      "2022-03-16": 16
     }
   },
   {
@@ -72,18 +71,17 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "99.73%",
+    "uptimeYear": "99.78%",
     "time": 1226,
-    "timeDay": 1024,
-    "timeWeek": 1121,
-    "timeMonth": 1143,
+    "timeDay": 1272,
+    "timeWeek": 1154,
+    "timeMonth": 1137,
     "timeYear": 1227,
     "dailyMinutesDown": {
       "2023-01-12": 56,
       "2023-01-10": 72,
       "2022-04-24": 239,
-      "2022-03-31": 30,
-      "2022-02-12": 878
+      "2022-03-31": 30
     }
   },
   {
@@ -97,11 +95,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 883,
-    "timeDay": 977,
-    "timeWeek": 897,
-    "timeMonth": 824,
-    "timeYear": 886,
+    "time": 884,
+    "timeDay": 1188,
+    "timeWeek": 958,
+    "timeMonth": 830,
+    "timeYear": 887,
     "dailyMinutesDown": {
       "2022-12-04": 21,
       "2022-11-30": 17,
@@ -122,10 +120,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1711,
-    "timeDay": 1349,
-    "timeWeek": 1616,
-    "timeMonth": 1556,
-    "timeYear": 1695,
+    "timeDay": 1774,
+    "timeWeek": 1638,
+    "timeMonth": 1553,
+    "timeYear": 1696,
     "dailyMinutesDown": {
       "2022-09-19": 19,
       "2022-03-31": 51
