@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 513,
     "dailyMinutesDown": {
-      "2023-10-20": 952,
+      "2023-10-20": 958,
       "2023-10-19": 1440,
       "2023-10-18": 1440,
       "2023-10-17": 1440,
@@ -299,19 +299,19 @@
     "url": "https://mail.aysa.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/mail.aysa.com.ar.ico",
     "slug": "aysa-mail",
-    "status": "down",
+    "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 1725,
-    "timeDay": 1801,
-    "timeWeek": 1635,
-    "timeMonth": 1656,
+    "timeDay": 1704,
+    "timeWeek": 1631,
+    "timeMonth": 1655,
     "timeYear": 1754,
     "dailyMinutesDown": {
-      "2023-10-20": 0,
+      "2023-10-20": 5,
       "2023-03-17": 43
     }
   }
