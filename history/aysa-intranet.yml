@@ -1,7 +1,7 @@
 url: https://intranet.aysa.com.ar/login
-status: down
-code: 502
-responseTime: 3591
-lastUpdated: 2024-02-15T16:25:10.133Z
+status: up
+code: 200
+responseTime: 700
+lastUpdated: 2024-02-15T16:58:54.305Z
 startTime: 2022-02-03T22:21:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
