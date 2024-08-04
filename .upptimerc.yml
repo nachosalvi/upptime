@@ -6,8 +6,8 @@ sites:
   - name: Aysa Sitio Corporativo
     url: https://www.aysa.com.ar
     __dangerous__disable_verify_peer: true
-  - name: Aysa Intranet
-    url: https://intranet.aysa.com.ar/login
+  #- name: Aysa Intranet
+  #  url: https://intranet.aysa.com.ar/login
   - name: Aysa ServiceDesk
     url: https://servicedesk.aysa.com.ar
   #- name: Aysa Encuestas
