@@ -1,7 +1,7 @@
 url: https://mail.aysa.com.ar
-status: up
-code: 200
-responseTime: 1787
-lastUpdated: 2024-11-13T23:03:49.628Z
+status: down
+code: 502
+responseTime: 937
+lastUpdated: 2024-11-14T17:01:18.689Z
 startTime: 2022-02-05T13:33:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
