@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "34.92%",
+    "uptimeYear": "34.93%",
     "time": 405,
     "timeDay": 521,
     "timeWeek": 321,
@@ -260,19 +260,19 @@
     "url": "https://servicedesk.aysa.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/servicedesk.aysa.com.ar.ico",
     "slug": "aysa-service-desk",
-    "status": "down",
+    "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 554,
-    "timeDay": 706,
-    "timeWeek": 574,
-    "timeMonth": 540,
+    "timeDay": 630,
+    "timeWeek": 563,
+    "timeMonth": 538,
     "timeYear": 551,
     "dailyMinutesDown": {
-      "2024-12-11": 0
+      "2024-12-11": 17
     }
   },
   {
