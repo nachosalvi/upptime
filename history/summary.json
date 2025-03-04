@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.aysa.com.ar.ico",
     "slug": "aysa-sitio-corporativo",
     "status": "up",
-    "uptime": "56.41%",
+    "uptime": "56.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "57.62%",
-    "time": 388,
-    "timeDay": 197,
-    "timeWeek": 387,
-    "timeMonth": 397,
-    "timeYear": 388,
+    "uptimeYear": "57.90%",
+    "time": 387,
+    "timeDay": 93,
+    "timeWeek": 373,
+    "timeMonth": 389,
+    "timeYear": 387,
     "dailyMinutesDown": {
       "2025-01-20": 40,
       "2024-08-20": 54,
@@ -170,8 +170,7 @@
       "2024-03-08": 1440,
       "2024-03-07": 1440,
       "2024-03-06": 1440,
-      "2024-03-05": 1440,
-      "2024-03-04": 1440
+      "2024-03-05": 1440
     }
   },
   {
@@ -185,10 +184,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 553,
-    "timeDay": 355,
-    "timeWeek": 585,
-    "timeMonth": 632,
+    "time": 552,
+    "timeDay": 415,
+    "timeWeek": 577,
+    "timeMonth": 629,
     "timeYear": 560,
     "dailyMinutesDown": {
       "2024-12-11": 17
@@ -205,11 +204,11 @@
     "uptimeWeek": "98.53%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.96%",
-    "time": 779,
-    "timeDay": 489,
-    "timeWeek": 598,
-    "timeMonth": 665,
-    "timeYear": 748,
+    "time": 778,
+    "timeDay": 432,
+    "timeWeek": 574,
+    "timeMonth": 658,
+    "timeYear": 747,
     "dailyMinutesDown": {
       "2025-02-28": 148,
       "2024-04-13": 19,
@@ -226,12 +225,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.43%",
+    "uptimeYear": "93.71%",
     "time": 1881,
-    "timeDay": 1654,
-    "timeWeek": 1777,
-    "timeMonth": 1748,
-    "timeYear": 1957,
+    "timeDay": 1600,
+    "timeWeek": 1774,
+    "timeMonth": 1758,
+    "timeYear": 1956,
     "dailyMinutesDown": {
       "2024-12-03": 368,
       "2024-11-14": 17,
@@ -273,8 +272,7 @@
       "2024-03-08": 637,
       "2024-03-07": 548,
       "2024-03-06": 560,
-      "2024-03-05": 576,
-      "2024-03-04": 653
+      "2024-03-05": 576
     }
   }
 ]
