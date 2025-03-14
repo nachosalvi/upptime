@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.aysa.com.ar.ico",
     "slug": "aysa-sitio-corporativo",
     "status": "up",
-    "uptime": "56.80%",
+    "uptime": "56.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "60.36%",
-    "time": 388,
-    "timeDay": 537,
-    "timeWeek": 395,
-    "timeMonth": 392,
-    "timeYear": 388,
+    "uptimeYear": "60.64%",
+    "time": 387,
+    "timeDay": 344,
+    "timeWeek": 405,
+    "timeMonth": 393,
+    "timeYear": 387,
     "dailyMinutesDown": {
       "2025-01-20": 40,
       "2024-08-20": 54,
@@ -160,8 +160,7 @@
       "2024-03-18": 1440,
       "2024-03-17": 1440,
       "2024-03-16": 1440,
-      "2024-03-15": 1440,
-      "2024-03-14": 1440
+      "2024-03-15": 1440
     }
   },
   {
@@ -175,11 +174,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 554,
-    "timeDay": 758,
-    "timeWeek": 639,
-    "timeMonth": 650,
-    "timeYear": 552,
+    "time": 555,
+    "timeDay": 601,
+    "timeWeek": 665,
+    "timeMonth": 651,
+    "timeYear": 553,
     "dailyMinutesDown": {
       "2024-12-11": 17
     }
@@ -195,11 +194,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.96%",
-    "time": 783,
-    "timeDay": 718,
-    "timeWeek": 1239,
-    "timeMonth": 779,
-    "timeYear": 754,
+    "time": 782,
+    "timeDay": 544,
+    "timeWeek": 1224,
+    "timeMonth": 775,
+    "timeYear": 753,
     "dailyMinutesDown": {
       "2025-02-28": 148,
       "2024-04-13": 19,
@@ -212,16 +211,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.aysa.com.ar.ico",
     "slug": "aysa-mail",
     "status": "up",
-    "uptime": "97.56%",
+    "uptime": "97.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.96%",
+    "uptimeYear": "95.07%",
     "time": 1943,
-    "timeDay": 2094,
-    "timeWeek": 1803,
+    "timeDay": 1650,
+    "timeWeek": 1798,
     "timeMonth": 1772,
-    "timeYear": 1854,
+    "timeYear": 1853,
     "dailyMinutesDown": {
       "2024-12-03": 368,
       "2024-11-14": 17,
@@ -253,8 +252,7 @@
       "2024-03-18": 621,
       "2024-03-17": 1440,
       "2024-03-16": 773,
-      "2024-03-15": 551,
-      "2024-03-14": 538
+      "2024-03-15": 551
     }
   }
 ]
