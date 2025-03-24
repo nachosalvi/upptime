@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.aysa.com.ar.ico",
     "slug": "aysa-sitio-corporativo",
     "status": "up",
-    "uptime": "57.18%",
+    "uptime": "57.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "63.10%",
+    "uptimeYear": "63.38%",
     "time": 385,
-    "timeDay": 656,
-    "timeWeek": 365,
-    "timeMonth": 377,
+    "timeDay": 198,
+    "timeWeek": 379,
+    "timeMonth": 359,
     "timeYear": 385,
     "dailyMinutesDown": {
       "2025-01-20": 40,
@@ -150,8 +150,7 @@
       "2024-03-28": 1440,
       "2024-03-27": 1440,
       "2024-03-26": 1440,
-      "2024-03-25": 1440,
-      "2024-03-24": 1440
+      "2024-03-25": 1440
     }
   },
   {
@@ -166,10 +165,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 556,
-    "timeDay": 623,
-    "timeWeek": 625,
-    "timeMonth": 623,
-    "timeYear": 556,
+    "timeDay": 552,
+    "timeWeek": 628,
+    "timeMonth": 612,
+    "timeYear": 555,
     "dailyMinutesDown": {
       "2024-12-11": 17
     }
@@ -186,10 +185,10 @@
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.96%",
     "time": 778,
-    "timeDay": 1001,
-    "timeWeek": 693,
-    "timeMonth": 774,
-    "timeYear": 748,
+    "timeDay": 636,
+    "timeWeek": 708,
+    "timeMonth": 769,
+    "timeYear": 747,
     "dailyMinutesDown": {
       "2025-02-28": 148,
       "2024-04-13": 19,
@@ -206,11 +205,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.24%",
+    "uptimeYear": "96.35%",
     "time": 1945,
-    "timeDay": 2217,
-    "timeWeek": 1865,
-    "timeMonth": 1801,
+    "timeDay": 1591,
+    "timeWeek": 1871,
+    "timeMonth": 1782,
     "timeYear": 1849,
     "dailyMinutesDown": {
       "2024-12-03": 368,
@@ -233,8 +232,7 @@
       "2024-03-28": 1283,
       "2024-03-27": 576,
       "2024-03-26": 559,
-      "2024-03-25": 624,
-      "2024-03-24": 1366
+      "2024-03-25": 624
     }
   }
 ]
