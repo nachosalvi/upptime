@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.aysa.com.ar.ico",
     "slug": "aysa-sitio-corporativo",
     "status": "up",
-    "uptime": "57.33%",
+    "uptime": "57.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "64.20%",
-    "time": 384,
-    "timeDay": 197,
-    "timeWeek": 412,
-    "timeMonth": 352,
-    "timeYear": 384,
+    "uptimeYear": "64.47%",
+    "time": 383,
+    "timeDay": 171,
+    "timeWeek": 352,
+    "timeMonth": 335,
+    "timeYear": 383,
     "dailyMinutesDown": {
       "2025-01-20": 40,
       "2024-08-20": 54,
@@ -146,8 +146,7 @@
       "2024-04-01": 1440,
       "2024-03-31": 1440,
       "2024-03-30": 1440,
-      "2024-03-29": 1440,
-      "2024-03-28": 1440
+      "2024-03-29": 1440
     }
   },
   {
@@ -162,9 +161,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 558,
-    "timeDay": 561,
-    "timeWeek": 615,
-    "timeMonth": 614,
+    "timeDay": 397,
+    "timeWeek": 574,
+    "timeMonth": 596,
     "timeYear": 556,
     "dailyMinutesDown": {
       "2024-12-11": 17
@@ -181,10 +180,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.96%",
-    "time": 776,
-    "timeDay": 638,
-    "timeWeek": 714,
-    "timeMonth": 760,
+    "time": 774,
+    "timeDay": 546,
+    "timeWeek": 699,
+    "timeMonth": 761,
     "timeYear": 746,
     "dailyMinutesDown": {
       "2025-02-28": 148,
@@ -198,15 +197,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.aysa.com.ar.ico",
     "slug": "aysa-mail",
     "status": "up",
-    "uptime": "97.59%",
+    "uptime": "97.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.83%",
+    "uptimeYear": "96.94%",
     "time": 1945,
-    "timeDay": 1607,
-    "timeWeek": 1839,
-    "timeMonth": 1764,
+    "timeDay": 1597,
+    "timeWeek": 1784,
+    "timeMonth": 1751,
     "timeYear": 1838,
     "dailyMinutesDown": {
       "2024-12-03": 368,
@@ -225,8 +224,7 @@
       "2024-04-01": 1440,
       "2024-03-31": 1440,
       "2024-03-30": 1043,
-      "2024-03-29": 1440,
-      "2024-03-28": 1283
+      "2024-03-29": 1440
     }
   }
 ]
