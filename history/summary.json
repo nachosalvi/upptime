@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.aysa.com.ar.ico",
     "slug": "aysa-sitio-corporativo",
     "status": "up",
-    "uptime": "57.36%",
+    "uptime": "57.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "64.47%",
-    "time": 383,
-    "timeDay": 171,
-    "timeWeek": 352,
-    "timeMonth": 335,
-    "timeYear": 383,
+    "uptimeYear": "64.75%",
+    "time": 382,
+    "timeDay": 205,
+    "timeWeek": 302,
+    "timeMonth": 330,
+    "timeYear": 382,
     "dailyMinutesDown": {
       "2025-01-20": 40,
       "2024-08-20": 54,
@@ -145,8 +145,7 @@
       "2024-04-02": 1440,
       "2024-04-01": 1440,
       "2024-03-31": 1440,
-      "2024-03-30": 1440,
-      "2024-03-29": 1440
+      "2024-03-30": 1440
     }
   },
   {
@@ -160,10 +159,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 558,
-    "timeDay": 397,
-    "timeWeek": 574,
-    "timeMonth": 596,
+    "time": 557,
+    "timeDay": 425,
+    "timeWeek": 526,
+    "timeMonth": 590,
     "timeYear": 556,
     "dailyMinutesDown": {
       "2024-12-11": 17
@@ -175,15 +174,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/oficinavirtual.web.aysa.com.ar.ico",
     "slug": "aysa-oficina-virtual",
     "status": "up",
-    "uptime": "99.47%",
+    "uptime": "99.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.96%",
     "time": 774,
-    "timeDay": 546,
-    "timeWeek": 699,
-    "timeMonth": 761,
+    "timeDay": 545,
+    "timeWeek": 648,
+    "timeMonth": 754,
     "timeYear": 746,
     "dailyMinutesDown": {
       "2025-02-28": 148,
@@ -201,11 +200,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.94%",
+    "uptimeYear": "97.19%",
     "time": 1945,
-    "timeDay": 1597,
-    "timeWeek": 1784,
-    "timeMonth": 1751,
+    "timeDay": 1532,
+    "timeWeek": 1691,
+    "timeMonth": 1744,
     "timeYear": 1838,
     "dailyMinutesDown": {
       "2024-12-03": 368,
@@ -223,8 +222,7 @@
       "2024-04-02": 1440,
       "2024-04-01": 1440,
       "2024-03-31": 1440,
-      "2024-03-30": 1043,
-      "2024-03-29": 1440
+      "2024-03-30": 1043
     }
   }
 ]
