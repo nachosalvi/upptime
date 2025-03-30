@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.aysa.com.ar.ico",
     "slug": "aysa-sitio-corporativo",
     "status": "up",
-    "uptime": "57.40%",
+    "uptime": "57.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "64.75%",
+    "uptimeYear": "65.02%",
     "time": 382,
-    "timeDay": 205,
-    "timeWeek": 302,
-    "timeMonth": 330,
+    "timeDay": 398,
+    "timeWeek": 265,
+    "timeMonth": 333,
     "timeYear": 382,
     "dailyMinutesDown": {
       "2025-01-20": 40,
@@ -144,8 +144,7 @@
       "2024-04-03": 1440,
       "2024-04-02": 1440,
       "2024-04-01": 1440,
-      "2024-03-31": 1440,
-      "2024-03-30": 1440
+      "2024-03-31": 1440
     }
   },
   {
@@ -159,9 +158,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 557,
-    "timeDay": 425,
-    "timeWeek": 526,
+    "time": 558,
+    "timeDay": 586,
+    "timeWeek": 521,
     "timeMonth": 590,
     "timeYear": 556,
     "dailyMinutesDown": {
@@ -179,11 +178,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.96%",
-    "time": 774,
-    "timeDay": 545,
-    "timeWeek": 648,
-    "timeMonth": 754,
-    "timeYear": 746,
+    "time": 773,
+    "timeDay": 699,
+    "timeWeek": 604,
+    "timeMonth": 752,
+    "timeYear": 745,
     "dailyMinutesDown": {
       "2025-02-28": 148,
       "2024-04-13": 19,
@@ -200,11 +199,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.19%",
-    "time": 1945,
-    "timeDay": 1532,
-    "timeWeek": 1691,
-    "timeMonth": 1744,
+    "uptimeYear": "97.47%",
+    "time": 1946,
+    "timeDay": 1789,
+    "timeWeek": 1630,
+    "timeMonth": 1745,
     "timeYear": 1838,
     "dailyMinutesDown": {
       "2024-12-03": 368,
@@ -221,8 +220,7 @@
       "2024-04-03": 631,
       "2024-04-02": 1440,
       "2024-04-01": 1440,
-      "2024-03-31": 1440,
-      "2024-03-30": 1043
+      "2024-03-31": 1440
     }
   }
 ]
