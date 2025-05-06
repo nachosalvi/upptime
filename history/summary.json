@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "75.11%",
-    "time": 385,
-    "timeDay": 160,
-    "timeWeek": 420,
-    "timeMonth": 425,
-    "timeYear": 385,
+    "uptimeYear": "75.16%",
+    "time": 384,
+    "timeDay": 355,
+    "timeWeek": 395,
+    "timeMonth": 430,
+    "timeYear": 384,
     "dailyMinutesDown": {
       "2025-01-20": 40,
       "2024-08-20": 54,
@@ -107,8 +107,7 @@
       "2024-05-10": 1440,
       "2024-05-09": 1440,
       "2024-05-08": 1440,
-      "2024-05-07": 1440,
-      "2024-05-06": 1440
+      "2024-05-07": 1440
     }
   },
   {
@@ -122,10 +121,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 561,
-    "timeDay": 455,
-    "timeWeek": 585,
-    "timeMonth": 629,
+    "time": 562,
+    "timeDay": 868,
+    "timeWeek": 594,
+    "timeMonth": 638,
     "timeYear": 565,
     "dailyMinutesDown": {
       "2024-12-11": 17
@@ -143,10 +142,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 759,
-    "timeDay": 542,
-    "timeWeek": 720,
-    "timeMonth": 717,
-    "timeYear": 737,
+    "timeDay": 428,
+    "timeWeek": 660,
+    "timeMonth": 712,
+    "timeYear": 736,
     "dailyMinutesDown": {
       "2025-02-28": 148
     }
@@ -158,17 +157,16 @@
     "slug": "aysa-mail",
     "status": "up",
     "uptime": "97.67%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 1968,
-    "timeDay": 3149,
-    "timeWeek": 2249,
+    "time": 1969,
+    "timeDay": 3190,
+    "timeWeek": 2182,
     "timeMonth": 1926,
-    "timeYear": 1866,
+    "timeYear": 1865,
     "dailyMinutesDown": {
-      "2025-05-05": 5,
       "2025-04-04": 43,
       "2024-12-03": 368,
       "2024-11-14": 17,
