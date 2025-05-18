@@ -1,7 +1,7 @@
 url: https://servicedesk.aysa.com.ar
-status: down
-code: 485
-responseTime: 452
-lastUpdated: 2025-05-18T19:03:22.179Z
+status: up
+code: 200
+responseTime: 462
+lastUpdated: 2025-05-18T19:11:36.839Z
 startTime: 2022-02-03T22:21:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
