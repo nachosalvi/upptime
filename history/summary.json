@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.aysa.com.ar.ico",
     "slug": "aysa-sitio-corporativo",
     "status": "up",
-    "uptime": "59.78%",
+    "uptime": "59.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "83.38%",
+    "uptimeYear": "83.65%",
     "time": 380,
-    "timeDay": 256,
-    "timeWeek": 257,
+    "timeDay": 352,
+    "timeWeek": 260,
     "timeMonth": 339,
     "timeYear": 380,
     "dailyMinutesDown": {
@@ -76,8 +76,7 @@
       "2024-06-10": 1440,
       "2024-06-09": 1440,
       "2024-06-08": 1440,
-      "2024-06-07": 1440,
-      "2024-06-06": 1440
+      "2024-06-07": 1440
     }
   },
   {
@@ -91,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 565,
-    "timeDay": 420,
-    "timeWeek": 462,
-    "timeMonth": 623,
-    "timeYear": 567,
+    "time": 566,
+    "timeDay": 822,
+    "timeWeek": 497,
+    "timeMonth": 622,
+    "timeYear": 568,
     "dailyMinutesDown": {
       "2024-12-11": 17
     }
@@ -111,10 +110,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 753,
-    "timeDay": 574,
-    "timeWeek": 624,
-    "timeMonth": 765,
+    "time": 752,
+    "timeDay": 589,
+    "timeWeek": 613,
+    "timeMonth": 770,
     "timeYear": 729,
     "dailyMinutesDown": {
       "2025-02-28": 148
@@ -126,16 +125,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.aysa.com.ar.ico",
     "slug": "aysa-mail",
     "status": "up",
-    "uptime": "97.72%",
+    "uptime": "97.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.87%",
     "time": 1850,
-    "timeDay": 1595,
+    "timeDay": 1890,
     "timeWeek": 1775,
-    "timeMonth": 1851,
-    "timeYear": 1865,
+    "timeMonth": 1779,
+    "timeYear": 1866,
     "dailyMinutesDown": {
       "2025-05-13": 99,
       "2025-04-04": 43,
