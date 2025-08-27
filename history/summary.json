@@ -27,9 +27,9 @@
     "slug": "aysa-service-desk",
     "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 601,
     "timeDay": 992,
@@ -37,7 +37,7 @@
     "timeMonth": 814,
     "timeYear": 617,
     "dailyMinutesDown": {
-      "2025-08-27": 0,
+      "2025-08-27": 9,
       "2025-07-01": 39,
       "2024-12-11": 17
     }
