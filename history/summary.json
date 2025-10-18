@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.aysa.com.ar.ico",
     "slug": "aysa-sitio-corporativo",
     "status": "up",
-    "uptime": "63.80%",
+    "uptime": "63.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -50,9 +50,9 @@
     "url": "https://oficinavirtual.web.aysa.com.ar/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/oficinavirtual.web.aysa.com.ar.ico",
     "slug": "aysa-oficina-virtual",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -62,6 +62,7 @@
     "timeMonth": 828,
     "timeYear": 727,
     "dailyMinutesDown": {
+      "2025-10-18": 0,
       "2025-02-28": 148
     }
   },
