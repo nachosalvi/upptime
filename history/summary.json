@@ -51,9 +51,9 @@
     "slug": "aysa-oficina-virtual",
     "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.96%",
     "time": 716,
     "timeDay": 458,
@@ -61,7 +61,7 @@
     "timeMonth": 617,
     "timeYear": 712,
     "dailyMinutesDown": {
-      "2025-12-23": 0,
+      "2025-12-23": 8,
       "2025-12-16": 21,
       "2025-12-11": 18,
       "2025-02-28": 148
